@@ -1,0 +1,17 @@
+{
+  "name": "DiwaneeSerbia_example",
+  "authors": [
+    "y"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
